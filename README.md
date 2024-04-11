@@ -42,6 +42,6 @@ som sedan länkas in till activity_main.xml.
 
 Vidare har flera olika stylings gjortd på liknande sätt som beskriv i rapporten. Men att skriva
 varje ändring som gjorts känns överflödigt och blir snabbt upprepande. Därför har jag valt att ha 
-med de som jag tycker är mest väsentligt att ha med och förklara.
+med de ändringar jag tycker är mest väsentliga.
 
 ![](hastens_widgets.png)
