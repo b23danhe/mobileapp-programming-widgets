@@ -3,4 +3,5 @@
     <string name="text_string">Hästens Unicorn</string>
     <string name="img_desc">Bild på häst</string>
     <string name="fri_text">Skriv dagens gnägg här..</string>
+    <string name="knapp">Tryck här!</string>
 </resources>
