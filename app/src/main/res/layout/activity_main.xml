@@ -27,6 +27,13 @@
         app:layout_constraintTop_toTopOf="parent"
         android:paddingTop="30sp" />
 
+    <EditText
+        android:id="@+id/friText"
+        android:hint="@string/fri_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/text"/>
+
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
@@ -34,6 +41,6 @@
         android:text="Button"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/text"/>
+        app:layout_constraintTop_toBottomOf="@id/friText"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
