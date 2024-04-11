@@ -34,7 +34,9 @@
         android:hint="@string/fri_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:layout_constraintTop_toBottomOf="@id/text"/>
+        app:layout_constraintTop_toBottomOf="@id/text"
+        android:inputType="text"
+        android:importantForAutofill="no" />
 
     <Button
         android:id="@+id/button"
